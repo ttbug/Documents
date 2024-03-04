@@ -9,7 +9,7 @@
     <toc-element topic="starter-topic.md">
     </toc-element>
     <toc-element topic="goland.md"/>
-<!--    <toc-element topic="介绍.md"/>-->
+    <toc-element topic="kubernetes.md"/>
 <!--    <toc-element topic="how-to-report.md"/>-->
 <!--    <toc-element topic="blame.md"/>-->
 </instance-profile>
