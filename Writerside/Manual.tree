@@ -8,8 +8,12 @@
 
     <toc-element topic="starter-topic.md">
     </toc-element>
-    <toc-element topic="goland.md"/>
-    <toc-element topic="kubernetes.md"/>
+    <toc-element toc-title="Kubernetes">
+        <toc-element id="kubernetes.md"/>
+    </toc-element>
+    <toc-element toc-title="Golang">
+        <toc-element id="goland.md"/>
+    </toc-element>
 <!--    <toc-element topic="how-to-report.md"/>-->
 <!--    <toc-element topic="blame.md"/>-->
 </instance-profile>
