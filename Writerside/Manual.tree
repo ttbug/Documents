@@ -4,7 +4,8 @@
 
 <instance-profile id="Manual"
                   name="古月杂谈"
-                  start-page="starter-topic.md">
+                  start-page="starter-topic.md"
+                  status="release">
 
     <toc-element topic="starter-topic.md">
     </toc-element>
