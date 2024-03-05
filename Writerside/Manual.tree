@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="Manual"
-                  name="古月杂谈"
+                  name="五迷三道"
                   start-page="starter-topic.md">
 
     <toc-element topic="starter-topic.md"/>
@@ -20,14 +20,21 @@
 
     <toc-element toc-title="Golang">
         <toc-element topic="goland.md"/>
+        <toc-element topic="tips.md"/>
     </toc-element>
 
     <toc-element toc-title="Rust">
         <toc-element topic="rust.md"/>
+        <toc-element topic="所有权学习.md"/>
     </toc-element>
 
     <toc-element toc-title="Linux">
         <toc-element topic="linux.md"/>
+        <toc-element topic="Arch Linux.md"/>
+    </toc-element>
+
+    <toc-element toc-title="五迷三道">
+        <toc-element topic="初春映像.md"/>
     </toc-element>
 <!--    <toc-element topic="how-to-report.md"/>-->
 <!--    <toc-element topic="blame.md"/>-->
